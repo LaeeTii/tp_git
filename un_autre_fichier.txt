@@ -1,1 +1,3 @@
 Un fichier créé directement sur GitHub
+
+Mais je peux le modifier sur mon PC et le synchroniser ensuite sur GitHub
